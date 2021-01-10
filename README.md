@@ -6,19 +6,19 @@ A (probably over complicated) effort at taking two lists and effectively removin
 - Needed to ensure that the subdomains did NOT include certain items  
 - Bash is hard and Go is not
   
-### Installation  
+## Installation  
   
 ```
 go get github.com/crawl3r/scopepurge
 ```
   
-### Usage
+## Usage
   
 ```
 ./scopepurge urls.txt bad.txt > cleaned_urls.txt
 ```
   
-### License  
+## License  
 I'm just a simple skid. Licensing isn't a big issue to me, I post things that I find helpful online in the hope that others can:  
  A) learn from the code  
  B) find use with the code or   
